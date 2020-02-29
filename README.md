@@ -1,6 +1,6 @@
 # AIHack2020
 
-Team: [https://www.github.com/shermjj](Sherman Khoo), [empty](Erwan Delorme), [https://www.github.com/chrischia06](Chris Chia)
+Team: [Sherman Khoo](https://www.github.com/shermjj), [Erwan Delorme](temp), [Chris Chia](https://www.github.com/chrischia06)
 
 ## Timeline:
 
