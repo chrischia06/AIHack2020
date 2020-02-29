@@ -1,11 +1,11 @@
 # AIHack2020
 
-Team: [https://github.com/shermjj](Sherman Khoo), [](Erwan Delorme), [https://github.com/chrischia06](Chris Chia)
+Team: [https://www.github.com/shermjj](Sherman Khoo), [empty](Erwan Delorme), [https://www.github.com/chrischia06](Chris Chia)
 
-Timeline:
+## Timeline:
 
-[x] Data Exploration
-[x] Lit Review
-[x] Final Solution / PDF
++ Data Exploration
++ Lit Review
++ Final Solution / PDF
 
  
