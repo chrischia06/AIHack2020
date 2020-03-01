@@ -18,6 +18,7 @@ Use Machine Learning to explore a dataset containing measurements for a "Low Pre
 
 ## Solution
 
+[]!(https://github.com/chrischia06/AIHack2020/blob/master/AIHack_Architecture.png)
 + Time Series Forecasting
 + Anomaly Detection
 + Dimensionality Reduction & Generative Models
